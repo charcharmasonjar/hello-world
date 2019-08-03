@@ -1,1 +1,1 @@
-console.log(hello world!);
+i'm so fucking sick of this shit git can i live????
